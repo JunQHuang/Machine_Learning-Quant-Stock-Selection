@@ -3,10 +3,12 @@
 **基于120个量价因子的机器学习多因子选股策略，支持灵活配置与自动交易**
 
 ## 稳健型
-<img width="2233" height="1266" alt="image" src="https://github.com/user-attachments/assets/23b200ea-b74a-4ee1-91d8-90e2a08b9ec7" />
+<img width="2209" height="1258" alt="566174426af5a50d46f0d4a8a5afcbe3" src="https://github.com/user-attachments/assets/a6a43056-c5f2-4be5-ba99-ed8d48a13a42" />
+
 
 ## 激进型
-<img width="2222" height="1275" alt="image" src="https://github.com/user-attachments/assets/4a6ec025-8722-4450-85ce-c24e32f96e06" />
+<img width="2250" height="1200" alt="5ca10ec21f8a392ca8cb6c99d10de75c" src="https://github.com/user-attachments/assets/a8606264-b1cb-4bbc-a2b0-4853090cdd7e" />
+
 
 
 
