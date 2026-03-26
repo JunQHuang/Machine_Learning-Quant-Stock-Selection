@@ -13,8 +13,6 @@
 
 <img width="48%" height="auto" alt="image" src="https://github.com/user-attachments/assets/c556c11e-0a76-4d5d-ae6a-cd96ff9ce1fd" />
 
-<img width="48%" height="auto"  alt="image" src="https://github.com/user-attachments/assets/4c906578-20db-419e-a78e-bc9892e3a090" />
-
 <img width="48%" height="auto" alt="3d63cebe6c94d601e07a65a3f507320d" src="https://github.com/user-attachments/assets/32809db5-e655-4b92-9216-17329c0c9a7c" />
 </div>
 图片仅供参考 不构成任何投资建议⬆️
