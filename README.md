@@ -7,8 +7,9 @@
 <img width="2149" height="1122" alt="3d63cebe6c94d601e07a65a3f507320d" src="https://github.com/user-attachments/assets/32809db5-e655-4b92-9216-17329c0c9a7c" />
 <img width="973" height="1034" alt="image" src="https://github.com/user-attachments/assets/c556c11e-0a76-4d5d-ae6a-cd96ff9ce1fd" />
 <img width="928" height="1075" alt="image" src="https://github.com/user-attachments/assets/f0bb2686-0881-499c-97b5-1202872d845e" />
-
-
+图片仅供参考 不构成任何投资建议⬆️
+基于机器学习模型，融合技术动量、资金流向、量价结构等多维因子，对全A股票未来收益率进行预测。系统实现T-1日生成信号、T日开盘执行的严格回测框架，支持多周期调仓与智能仓位管理。
+通过MongoDB Atlas实现信号历史存储与实盘跟踪，搭建网页进行持仓展示，结合飞书机器人实现实时信号推送与市场分析，构建了从因子计算、模型训练、回测验证到实盘监控的完整量化投研闭环。
 
 
 ## 📊 系统简介
