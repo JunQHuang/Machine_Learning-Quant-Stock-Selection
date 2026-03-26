@@ -5,18 +5,48 @@
 系统实现T-1日生成信号、T日开盘执行的严格回测框架，支持多周期调仓与基于预测强度分位数的智能仓位管理。
 通过MongoDB Atlas实现信号历史存储与实盘跟踪，结合飞书机器人实现实时信号推送与市场分析还有公众号爬取，并集成MiniQMT自动交易引擎实现策略信号的自动化执行，构建了从因子计算、模型训练、回测验证到实盘交易的完整量化投研闭环。
 
-<div align="center">
-
-<img width="48%" height="auto" alt="566174426af5a50d46f0d4a8a5afcbe3" src="https://github.com/user-attachments/assets/a6a43056-c5f2-4be5-ba99-ed8d48a13a42" />
-<img width="48%" height="auto" alt="8e8354a62c197694f63ce67512a8424b" src="https://github.com/user-attachments/assets/043c0340-7e5d-4cf7-97c8-dc663d4c0e62" />
-<img width="48%" height="auto" alt="image" src="https://github.com/user-attachments/assets/f0bb2686-0881-499c-97b5-1202872d845e" />
-<img width="48%" height="auto" alt="3105315c8cbe08758eed3a86bd09c712" src="https://github.com/user-attachments/assets/31ef2b29-e302-4ceb-9355-e85c7cf18955" />
-<img width="48%" height="auto" alt="3d63cebe6c94d601e07a65a3f507320d" src="https://github.com/user-attachments/assets/32809db5-e655-4b92-9216-17329c0c9a7c" />
-<img width="48%" height="auto" alt="image" src="https://github.com/user-attachments/assets/c556c11e-0a76-4d5d-ae6a-cd96ff9ce1fd" />
-
-
-
+<div class="image-gallery">
+  <img src="https://github.com/user-attachments/assets/a6a43056-c5f2-4be5-ba99-ed8d48a13a42" alt="图片描述1" />
+  <img src="https://github.com/user-attachments/assets/043c0340-7e5d-4cf7-97c8-dc663d4c0e62" alt="图片描述2" />
+  <img src="https://github.com/user-attachments/assets/f0bb2686-0881-499c-97b5-1202872d845e" alt="图片描述3" />
+  <img src="https://github.com/user-attachments/assets/31ef2b29-e302-4ceb-9355-e85c7cf18955" alt="图片描述4" />
+  <img src="https://github.com/user-attachments/assets/32809db5-e655-4b92-9216-17329c0c9a7c" alt="图片描述5" />
+  <img src="https://github.com/user-attachments/assets/c556c11e-0a76-4d5d-ae6a-cd96ff9ce1fd" alt="图片描述6" />
 </div>
+
+<style>
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; /* 控制图片间距 */
+  justify-content: center; /* 图片居中 */
+  max-width: 1200px; /* 控制整个画廊的最大宽度 */
+  margin: 0 auto; /* 画廊本身居中 */
+  padding: 20px;
+}
+
+.image-gallery img {
+  width: calc(50% - 10px); /* 两列布局，减去间距的一半 */
+  height: 300px; /* 设置一个固定高度，或使用 min-height */
+  object-fit: cover; /* 关键属性：保持图片比例并填充区域，可能裁剪 */
+  border-radius: 8px; /* 轻微圆角 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 添加轻微阴影 */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* 悬停动画 */
+}
+
+/* 当屏幕变小时，变为单列 */
+@media (max-width: 768px) {
+  .image-gallery img {
+    width: 100%; /* 单列显示 */
+  }
+}
+
+/* 悬停效果 */
+.image-gallery img:hover {
+  transform: translateY(-5px); /* 轻微上浮 */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* 阴影加深 */
+}
+</style>
 
 图片仅供参考 不构成任何投资建议⬆️
 图片仅供参考 不构成任何投资建议⬆️
