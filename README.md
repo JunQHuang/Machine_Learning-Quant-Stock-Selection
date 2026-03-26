@@ -3,6 +3,10 @@
 **基于120个量价因子的机器学习多因子选股策略，支持灵活配置与自动交易**
 
 <img width="2209" height="1258" alt="566174426af5a50d46f0d4a8a5afcbe3" src="https://github.com/user-attachments/assets/a6a43056-c5f2-4be5-ba99-ed8d48a13a42" />
+<img width="2110" height="1302" alt="8e8354a62c197694f63ce67512a8424b" src="https://github.com/user-attachments/assets/043c0340-7e5d-4cf7-97c8-dc663d4c0e62" />
+<img width="2149" height="1122" alt="3d63cebe6c94d601e07a65a3f507320d" src="https://github.com/user-attachments/assets/32809db5-e655-4b92-9216-17329c0c9a7c" />
+<img width="973" height="1034" alt="image" src="https://github.com/user-attachments/assets/c556c11e-0a76-4d5d-ae6a-cd96ff9ce1fd" />
+<img width="928" height="1075" alt="image" src="https://github.com/user-attachments/assets/f0bb2686-0881-499c-97b5-1202872d845e" />
 
 
 
